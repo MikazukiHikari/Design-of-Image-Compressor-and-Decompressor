@@ -1,1 +1,1 @@
-# SOM_Verilog
+# Design of Image Compressor and Decompressor
